@@ -1,5 +1,5 @@
 # Ejercicio 12 Boostrap
-Ejercicio 12 / Elementos de Boostrap del curso de HTML Y CSS de Open Bootcamp
+Ejercicio 12 / Elementos de interés Boostrap del curso de HTML Y CSS de Open Bootcamp
 ## Crea un nuevo documento HTML con el título "Elementos de Interés en Bootstrap"
 
 * Utilizando la página oficial getboostrap.com, añade la última versión de Bootstrap a este documento HTML
